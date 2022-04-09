@@ -1,4 +1,4 @@
-// STEP 1: Before you start: take a look at the code below to get a feel for what it does. The code below is the solution to the classwork from period 2, so it should look familiar.
+// STEP 1: Before you start: take a look at the code below to get a feel for what it does.
 
 // Step 2: // STEP 2: In your terminal install the dependencies simply by typing in npm install. This will install the needed dependencies (express and ejs) and dev dependencies (morgan and nodemon) for this project. 
     // Note that you do NOT have to do npm init because cloning this project brings in the package.json file that's usually created through the npm init. 
